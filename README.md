@@ -1,5 +1,5 @@
 # egclockjs  
 a easy framework in JavaScript to make clock web application  
 
-https://taisukef.github.io/egclockjs/  
+https://kato1008.github.io/egclockjs/  
 
